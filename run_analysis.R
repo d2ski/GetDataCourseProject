@@ -58,13 +58,11 @@ run_analysis <- function () {
     names(ex.data) <- descriptive.name(names(ex.data))
     
     ## extracting tidy data set
+    
     tidy.data <- aggregate(ex.data[,4:ncol(ex.data)],
                            by = list(subject=ex.data$subject,
                            activityname=ex.data$activityname),
                            FUN = mean, na.rm = TRUE)
-    tidy.data <- melt(tidy.data, id = c("subject", "activityname"))
-    names(tidy.data) <- c("subject", "activityname", "measurement", "mean")
-    
     tidy.data
 }
 
