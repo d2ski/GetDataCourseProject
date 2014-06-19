@@ -129,11 +129,19 @@ timebodygyroscopicjerkstdzaxis
 
 timebodyaccelerationmagnitudemean
 
+*Time domain magnitude of body acceleration signal, mean value*
+
 timebodyaccelerationmagnitudestd
+
+*Time domain magnitude of body acceleration signal, standard deviation value*
 
 timegravityaccelerationmagnitudemean
 
+*Time domain magnitude of gravity acceleration signal, mean value*
+
 timegravityaccelerationmagnitudestd
+
+*Time domain magnitude of gravity acceleration signal, standard deviation value*
 
 timebodyaccelerationjerkmagnitudemean
 
@@ -197,7 +205,11 @@ frequencybodygyroscopicstdzaxis
 
 frequencybodyaccelerationmagnitudemean
 
+*Frequency domain magnitude of body acceleration signal, mean value*
+
 frequencybodyaccelerationmagnitudestd
+
+*Frequency domain magnitude of body acceleration signal, standard deviation value*
 
 frequencybodyaccelerationjerkmagnitudemean
 
