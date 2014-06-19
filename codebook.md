@@ -33,11 +33,11 @@ Variables of data set:
 ----------------------
 subject
 
-*Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.*
+*Each row identifies the subject who performed the activity for each window sample: range from 1 to 30.*
 
 activityname
 
-*Each row identifies the performed activity*
+*Each row identifies the performed activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING*
 
 #### Features variables (means of):
 
