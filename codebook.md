@@ -69,15 +69,27 @@ timebodyaccelerationstdzaxis
 
 timegravityaccelerationmeanxaxis
 
+*Time domain gravity acceleration signal in X direction/dimenstion, mean value*
+
 timegravityaccelerationmeanyaxis
+
+*Time domain gravity acceleration signal in Y direction/dimenstion, mean value*
 
 timegravityaccelerationmeanzaxis
 
+*Time domain gravity acceleration signal in Z direction/dimenstion, mean value*
+
 timegravityaccelerationstdxaxis
+
+*Time domain gravity acceleration signal in X direction/dimenstion, standard deviation value*
 
 timegravityaccelerationstdyaxis
 
+*Time domain gravity acceleration signal in Y direction/dimenstion, standard deviation value*
+
 timegravityaccelerationstdzaxis
+
+*Time domain gravity acceleration signal in Z direction/dimenstion, standard deviation value*
 
 timebodyaccelerationjerkmeanxaxis
 
