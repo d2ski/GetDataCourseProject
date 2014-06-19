@@ -30,6 +30,7 @@ Tidy data set is represented in wide form.
 #### Why is the data set tidy?
 
 It meets the main principles of tidy data (in accordance with Hadley Wickham's ["Tidy data"](http://vita.had.co.nz/papers/tidy-data.pdf)):
+
 1. Each variable forms a column.
 2. Each observation forms a row.
 3. Each type of observational unit forms a table.
