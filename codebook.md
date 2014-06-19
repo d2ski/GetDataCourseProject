@@ -181,15 +181,27 @@ timegravityaccelerationmagnitudestd
 
 timebodyaccelerationjerkmagnitudemean
 
+*Time domain magnitude of body linear jerk signal, mean value*
+
 timebodyaccelerationjerkmagnitudestd
+
+*Time domain magnitude of body linear jerk signal, standard deviation value*
 
 timebodygyroscopicmagnitudemean
 
+*Time domain magnitude of body angular velocity, mean value*
+
 timebodygyroscopicmagnitudestd
+
+*Time domain magnitude of body angular velocity, standard deviation value*
 
 timebodygyroscopicjerkmagnitudemean
 
+*Time domain magnitude of body angular jerk signal, mean value*
+
 timebodygyroscopicjerkmagnitudestd
+
+*Time domain magnitude of body angular jerk signal, standard deviation value*
 
 frequencybodyaccelerationmeanxaxis
 
@@ -273,12 +285,24 @@ frequencybodyaccelerationmagnitudestd
 
 frequencybodyaccelerationjerkmagnitudemean
 
+*Frequency domain magnitude of body linear jerk signal, mean value*
+
 frequencybodyaccelerationjerkmagnitudestd
+
+*Frequency domain magnitude of body linear jerk signal, standard deviation value*
 
 frequencybodygyroscopicmagnitudemean
 
+*Frequency domain magnitude of body angular velocity, mean value*
+
 frequencybodygyroscopicmagnitudestd
+
+*Frequency domain magnitude of body angular velocity, standard deviation value*
 
 frequencybodygyroscopicjerkmagnitudemean
 
+*Frequency domain magnitude of body angular jerk signal, mean value*
+
 frequencybodygyroscopicjerkmagnitudestd
+
+*Frequency domain magnitude of body angular jerk signal, standard deviation value*
