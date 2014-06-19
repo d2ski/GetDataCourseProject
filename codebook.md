@@ -45,51 +45,51 @@ These signals were used to estimate variables of the feature vector for each pat
 
 timebodyaccelerationmeanxaxis
 
-*Time domain body acceleration signal in X direction/dimenstion, mean value*
+*Time domain body acceleration signal in X direction/dimension, mean value*
 
 timebodyaccelerationmeanyaxis
 
-*Time domain body acceleration signal in Y direction/dimenstion, mean value*
+*Time domain body acceleration signal in Y direction/dimension, mean value*
 
 timebodyaccelerationmeanzaxis
 
-*Time domain body acceleration signal in Z direction/dimenstion, mean value*
+*Time domain body acceleration signal in Z direction/dimension, mean value*
 
 timebodyaccelerationstdxaxis
 
-*Time domain body acceleration signal in X direction/dimenstion, standard deviation value*
+*Time domain body acceleration signal in X direction/dimension, standard deviation value*
 
 timebodyaccelerationstdyaxis
 
-*Time domain body acceleration signal in Y direction/dimenstion, standard deviation value*
+*Time domain body acceleration signal in Y direction/dimension, standard deviation value*
 
 timebodyaccelerationstdzaxis
 
-*Time domain body acceleration signal in Z direction/dimenstion, standard deviation value*
+*Time domain body acceleration signal in Z direction/dimension, standard deviation value*
 
 timegravityaccelerationmeanxaxis
 
-*Time domain gravity acceleration signal in X direction/dimenstion, mean value*
+*Time domain gravity acceleration signal in X direction/dimension, mean value*
 
 timegravityaccelerationmeanyaxis
 
-*Time domain gravity acceleration signal in Y direction/dimenstion, mean value*
+*Time domain gravity acceleration signal in Y direction/dimension, mean value*
 
 timegravityaccelerationmeanzaxis
 
-*Time domain gravity acceleration signal in Z direction/dimenstion, mean value*
+*Time domain gravity acceleration signal in Z direction/dimension, mean value*
 
 timegravityaccelerationstdxaxis
 
-*Time domain gravity acceleration signal in X direction/dimenstion, standard deviation value*
+*Time domain gravity acceleration signal in X direction/dimension, standard deviation value*
 
 timegravityaccelerationstdyaxis
 
-*Time domain gravity acceleration signal in Y direction/dimenstion, standard deviation value*
+*Time domain gravity acceleration signal in Y direction/dimension, standard deviation value*
 
 timegravityaccelerationstdzaxis
 
-*Time domain gravity acceleration signal in Z direction/dimenstion, standard deviation value*
+*Time domain gravity acceleration signal in Z direction/dimension, standard deviation value*
 
 timebodyaccelerationjerkmeanxaxis
 
@@ -105,15 +105,27 @@ timebodyaccelerationjerkstdzaxis
 
 timebodygyroscopicmeanxaxis
 
+*Time domain body angular velocity signal in X direction/dimension, mean value*
+
 timebodygyroscopicmeanyaxis
+
+*Time domain body angular velocity signal in Y direction/dimension, mean value*
 
 timebodygyroscopicmeanzaxis
 
+*Time domain body angular velocity signal in Z direction/dimension, mean value*
+
 timebodygyroscopicstdxaxis
+
+*Time domain body angular velocity signal in X direction/dimension, standard deviation value*
 
 timebodygyroscopicstdyaxis
 
+*Time domain body angular velocity signal in Y direction/dimension, standard deviation value*
+
 timebodygyroscopicstdzaxis
+
+*Time domain body angular velocity signal in Z direction/dimension, standard deviation value*
 
 timebodygyroscopicjerkmeanxaxis
 
@@ -157,27 +169,27 @@ timebodygyroscopicjerkmagnitudestd
 
 frequencybodyaccelerationmeanxaxis
 
-*Frequency domain body acceleration signal in X direction/dimenstion, mean value*
+*Frequency domain body acceleration signal in X direction/dimension, mean value*
 
 frequencybodyaccelerationmeanyaxis
 
-*Frequency domain body acceleration signal in Y direction/dimenstion, mean value*
+*Frequency domain body acceleration signal in Y direction/dimension, mean value*
 
 frequencybodyaccelerationmeanzaxis
 
-*Frequency domain body acceleration signal in Z direction/dimenstion, mean value*
+*Frequency domain body acceleration signal in Z direction/dimension, mean value*
 
 frequencybodyaccelerationstdxaxis
 
-*Frequency domain body acceleration signal in X direction/dimenstion, standard deviation value*
+*Frequency domain body acceleration signal in X direction/dimension, standard deviation value*
 
 frequencybodyaccelerationstdyaxis
 
-*Frequency domain body acceleration signal in Y direction/dimenstion, standard deviation value*
+*Frequency domain body acceleration signal in Y direction/dimension, standard deviation value*
 
 frequencybodyaccelerationstdzaxis
 
-*Frequency domain body acceleration signal in Z direction/dimenstion, standard deviation value*
+*Frequency domain body acceleration signal in Z direction/dimension, standard deviation value*
 
 frequencybodyaccelerationjerkmeanxaxis
 
@@ -193,15 +205,27 @@ frequencybodyaccelerationjerkstdzaxis
 
 frequencybodygyroscopicmeanxaxis
 
+*Frequency domain body angular velocity signal in X direction/dimension, mean value*
+
 frequencybodygyroscopicmeanyaxis
+
+*Frequency domain body angular velocity signal in Y direction/dimension, mean value*
 
 frequencybodygyroscopicmeanzaxis
 
+*Frequency domain body angular velocity signal in Z direction/dimension, mean value*
+
 frequencybodygyroscopicstdxaxis
+
+*Frequency domain body angular velocity signal in X direction/dimension, standard deviation value*
 
 frequencybodygyroscopicstdyaxis
 
+*Frequency domain body angular velocity signal in Y direction/dimension, standard deviation value*
+
 frequencybodygyroscopicstdzaxis
+
+*Frequency domain body angular velocity signal in Z direction/dimension, standard deviation value*
 
 frequencybodyaccelerationmagnitudemean
 
