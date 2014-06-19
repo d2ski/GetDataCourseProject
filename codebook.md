@@ -93,15 +93,27 @@ timegravityaccelerationstdzaxis
 
 timebodyaccelerationjerkmeanxaxis
 
+*Time domain body linear jerk signal in X direction/dimension, mean value*
+
 timebodyaccelerationjerkmeanyaxis
+
+*Time domain body linear jerk signal in Y direction/dimension, mean value*
 
 timebodyaccelerationjerkmeanzaxis
 
+*Time domain body linear jerk signal in Z direction/dimension, mean value*
+
 timebodyaccelerationjerkstdxaxis
+
+*Time domain boy linear jerk signal in X direction/dimension, standard deviation value*
 
 timebodyaccelerationjerkstdyaxis
 
+*Time domain body linear jerk signal in Y direction/dimension, standard deviation value*
+
 timebodyaccelerationjerkstdzaxis
+
+*Time domain body linear jerk signal in Z direction/dimension, standard deviation value*
 
 timebodygyroscopicmeanxaxis
 
@@ -129,15 +141,27 @@ timebodygyroscopicstdzaxis
 
 timebodygyroscopicjerkmeanxaxis
 
+*Time domain body angular jerk signal in X direction/dimension, mean value*
+
 timebodygyroscopicjerkmeanyaxis
+
+*Time domain body angular jerk signal in Y direction/dimension, mean value*
 
 timebodygyroscopicjerkmeanzaxis
 
+*Time domain body angular jerk signal in Z direction/dimension, mean value*
+
 timebodygyroscopicjerkstdxaxis
+
+*Time domain body angular jerk signal in X direction/dimension, standard deviation value*
 
 timebodygyroscopicjerkstdyaxis
 
+*Time domain body angular jerk signal in Y direction/dimension, standard deviation value*
+
 timebodygyroscopicjerkstdzaxis
+
+*Time domain body angular jerk signal in Z direction/dimension, standard deviation value*
 
 timebodyaccelerationmagnitudemean
 
@@ -193,15 +217,27 @@ frequencybodyaccelerationstdzaxis
 
 frequencybodyaccelerationjerkmeanxaxis
 
+*Frequency domain body linear jerk signal in X direction/dimension, mean value*
+
 frequencybodyaccelerationjerkmeanyaxis
+
+*Frequency domain body linear jerk signal in Y direction/dimension, mean value*
 
 frequencybodyaccelerationjerkmeanzaxis
 
+*Frequency domain body linear jerk signal in Z direction/dimension, mean value*
+
 frequencybodyaccelerationjerkstdxaxis
+
+*Frequency domain body linear jerk signal in X direction/dimension, standard deviation value*
 
 frequencybodyaccelerationjerkstdyaxis
 
+*Frequency domain body linear jerk signal in Y direction/dimension, standard deviation value*
+
 frequencybodyaccelerationjerkstdzaxis
+
+*Frequency domain body linear jerk signal in Z direction/dimension, standard deviation value*
 
 frequencybodygyroscopicmeanxaxis
 
