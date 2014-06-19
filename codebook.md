@@ -3,12 +3,12 @@ Data set for 'Getting And Cleaning Data' Coursera course project
 
 Extracted from Human Activity Recognition Using Smartphones Dataset Version 1.0:
 
-Referenced publication:
+Reference publication:
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
+DITEN - Universitï¿½ degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -26,8 +26,8 @@ __tidy_data_set.txt__ file: data set itself
 How tidy data set was transformed from initial data:
 --------------------------------------------------------
 1. The training data and the test data were merged together.
-3. Values of mean and standard deviation were extracted.
-2. The mean of each extracted variable for each activity and each subject from initial data was calculated and aggregated in data set.
+2. The measurements on the mean and standard deviation for each measurement were extracted from merged data set.
+3. The mean of each extracted variable for each activity and each subject from initial data was calculated and aggregated in the tidy data set.
 
 Variables of data set:
 ----------------------
