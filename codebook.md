@@ -52,15 +52,27 @@ These signals were used to estimate variables of the feature vector for each pat
 
 timebodyaccelerationmeanxaxis
 
+*Time domain body acceleration signal in X direction/dimenstion, mean value*
+
 timebodyaccelerationmeanyaxis
+
+*Time domain body acceleration signal in Y direction/dimenstion, mean value*
 
 timebodyaccelerationmeanzaxis
 
+*Time domain body acceleration signal in Z direction/dimenstion, mean value*
+
 timebodyaccelerationstdxaxis
+
+*Time domain body acceleration signal in X direction/dimenstion, standard deviation value*
 
 timebodyaccelerationstdyaxis
 
+*Time domain body acceleration signal in Y direction/dimenstion, standard deviation value*
+
 timebodyaccelerationstdzaxis
+
+*Time domain body acceleration signal in Z direction/dimenstion, standard deviation value*
 
 timegravityaccelerationmeanxaxis
 
